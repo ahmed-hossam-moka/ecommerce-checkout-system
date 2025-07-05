@@ -49,3 +49,22 @@ Shipping          45
 Amount           595
 Balance left:    405
 END.
+
+🛠 Requirements
+Java 8 or higher
+
+Terminal / IDE like IntelliJ, VS Code, Eclipse
+
+📄 License
+This project is for learning purposes and internship evaluation only.
+
+sql
+Copy
+Edit
+
+### Then commit and push it:
+
+```bash
+git add README.md
+git commit -m "Add README file"
+git push

@@ -27,10 +27,10 @@ This project simulates an e-commerce checkout system in **Java**, built as part 
 ## 🧪 Example Usage
 
 
-cart.add(cheese, 2);
-cart.add(tv, 1);
-cart.add(scratchCard, 1);
-checkout(customer, cart);
+-cart.add(cheese, 2);
+-cart.add(tv, 1);
+-cart.add(scratchCard, 1);
+-checkout(customer, cart);
 
 ## 🖨 Console Output Example:
 

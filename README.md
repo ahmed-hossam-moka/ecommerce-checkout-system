@@ -64,22 +64,18 @@ This system provides a complete shopping cart implementation with support for:
 ## Usage Example
 
 ```java
-// Create products
 Product cheese = new ExpAndShippable("Cheese", 80, 20, 
     LocalDate.now().plusDays(5), 0.5);
 Product tv = new ShippAndNonExp("TV", 2000, 50, 5);
 Product scratchCard = new NonShippAndNonExp("Mobile Scratch", 20, 10);
 
-// Create customer
 Customer customer = new Customer("Ahmed Hossam", 5000);
 
-// Create and populate cart
 ShoppingCart cart = new ShoppingCart();
 cart.add(cheese, 2);
 cart.add(tv, 1);
 cart.add(scratchCard, 1);
 
-// Process checkout
 TheSystem system = new TheSystem();
 system.checkout(customer, cart);
 ```

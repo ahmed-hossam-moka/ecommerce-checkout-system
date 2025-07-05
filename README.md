@@ -26,13 +26,13 @@ This project simulates an e-commerce checkout system in **Java**, built as part 
 
 ## 🧪 Example Usage
 
-```java
+
 cart.add(cheese, 2);
 cart.add(tv, 1);
 cart.add(scratchCard, 1);
 checkout(customer, cart);
 
-🖨 Console Output Example:
+## 🖨 Console Output Example:
 
 ** Shipment notice **
 Cheese    400g
@@ -50,21 +50,16 @@ Amount           595
 Balance left:    405
 END.
 
-🛠 Requirements
+## 🛠 Requirements
 Java 8 or higher
 
 Terminal / IDE like IntelliJ, VS Code, Eclipse
 
-📄 License
+## 📄 License
 This project is for learning purposes and internship evaluation only.
 
-sql
-Copy
-Edit
 
 ### Then commit and push it:
-
-```bash
 git add README.md
 git commit -m "Add README file"
 git push

@@ -61,6 +61,22 @@ This system provides a complete shopping cart implementation with support for:
 8. Generates shipping notices for shippable items
 9. Prints detailed receipt
 
+---
+
+## 🖼️ Screenshots
+
+> 📸 *You can insert screenshots of your program in action here.*
+
+Example:
+
+![Run from the Main](screenshots/MainScreenshot.png)  
+*The Main to run the system*
+
+![The output1](screenshots/OutputScreenshot.png)  
+*The output after running the system*
+
+---
+
 ## Usage Example
 
 ```java
